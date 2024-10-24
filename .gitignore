@@ -1,0 +1,68 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+env/
+venv/
+
+# macOS specific files
+.DS_Store
+
+# Rye or pip environment files
+.rye/
+*.env
+
+# PyCharm/IDEA specific files
+.idea/
+
+# Log files
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+*.py,cover
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+
+# Generated documentation
+docs/_build/
+
+# Packaging files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+wheels/
+*.manifest
+.installed.cfg
+*.egg-info/
+pip-wheel-metadata/
+
+# uv specific files
+.uv/
+
+# MyPy and other linting tools cache
+.mypy_cache/
+.pyre/
+.pytype/
+ruff_cache/

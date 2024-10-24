@@ -1,0 +1,11 @@
+[project]
+name = "color-theory"
+version = "0.1.0"
+description = "Work for the Color Theory course I took at SAIC in Fall 2024"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "pillow>=11.0.0",
+    "pip>=24.2",
+]
